@@ -1,0 +1,233 @@
+body{
+    margin: 0;
+    }
+
+#topbar{margin:0 auto;}
+#topbar a{text-decoration: none;color: black;}
+
+#bbclogo{margin-right:10px; 
+         margin-left:140px;
+         margin-top: 8px;
+        float: left;}
+
+#signin{border-left: 1px grey solid;
+        float: left;  
+        margin-right:1px;
+        padding-left: 10px;
+        padding-right: 50px;
+        padding-bottom: 5px;}
+
+#home a:hover{text-decoration: underline;
+text-decoration-color: black;}
+
+#news a:hover{text-decoration: underline;
+text-decoration-color: red;}
+
+#sports a:hover{text-decoration: underline;
+text-decoration-color: yellow;}
+
+#worklife a:hover{text-decoration: underline;
+text-decoration-color: blue;}
+
+#travel a:hover{text-decoration: underline;
+text-decoration-color: #0052A1;}
+
+#future a:hover{text-decoration: underline;
+text-decoration-color: #589E50;}
+
+#culture a:hover{text-decoration: underline;
+text-decoration-color: #002856;}
+
+#more a:hover{text-decoration: underline;
+text-decoration-color: black;}
+
+
+
+
+.topsection{border-left: 1px grey solid;
+            float: left;
+            padding-left: 23px;
+            padding-right: 23px;
+            padding-top: 12px;
+            height: 28px;
+            font-size: 80%;
+            font-weight: 550;
+            font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;
+            }
+
+#more{padding-right: 20px;}
+
+#more-arrow{
+    margin-left: 60px;
+}
+
+#search{padding-left: 25px;
+    padding-bottom: 0px;
+}
+
+#searchbox{background-color: #E4E4E4;
+font-weight: bold;
+padding-left: 3px;
+
+margin-right: 0;
+float: left;
+border: none;
+height: 20px;
+width: 150px}
+
+#magnifying-glass{
+    margin-left: 0px;
+    height: 22px}
+
+.clear{clear: both;}
+
+#menubar{
+    width:100%;
+    background-color: #BB1919;
+    height: 90px;
+    
+}
+
+#top-menubar {
+    font-size: 250%;
+    font-family: Arial,Helvetica,freesans,sans-serif,ReithSans;
+    margin-left: 140px;
+    padding-top: 10px;
+
+}
+#top-menubar a{text-decoration: none;  color: white;}
+
+#menubar-options a{
+    float: left;
+    color: white;
+    font-size: 84%;
+    font-family:ReithSans,Arial,Helvetica,freesans,sans-serif;
+    margin-right: 14px;
+    margin-top: 10px;
+    border-right: 0.1px #eaa6a6 solid;
+    padding-right: 12px;
+    text-decoration: none;}
+
+#menubar-home{
+    margin-left: 140px;}
+
+#menubar-more{
+    border: none !important;
+}
+
+#menubar-options a:hover{
+    text-decoration: underline;
+}
+
+
+
+.country{float: left;
+        font-size: 17px;
+        font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;
+        border-left: 1px grey solid;
+        margin-left: 10px;
+        padding-left: 10px;
+        padding-top: 3px;
+        margin-top: 8px;
+        color: #494949;
+        }  
+
+#asia-region a{color: black;
+    text-decoration: none;
+    margin-left: 140px;
+       margin-top: 8px;
+       float: left;
+        font-size: 20px;
+    font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;}
+
+
+#china-region a{text-decoration: none; color: black;}
+#india-region a{text-decoration: underline; color: black;text-decoration-color: red;}
+
+#asia-region a:hover{text-decoration: underline; text-decoration-color: red;}
+#china-region a:hover{text-decoration: underline; text-decoration-color: red;}
+
+
+
+#car-crash {
+    margin-top: 15px;
+    margin-left:140px;
+    width: 490px;}
+#car-headline{margin-top: 10px;
+              margin-bottom: 10px;}
+#car-headline a{text-decoration: none;
+    color:black;
+    font-size: 27px;
+    font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+    font-weight: 700;
+    margin-top:10px;}
+#car-headline a:hover{color:#1380A1;text-decoration: underline; text-decoration-color: #1380A1;}
+
+
+
+#car-news a{text-decoration: none;
+    font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+    font-size: 14.5px;
+    margin-top: 12px;
+    color: #5A5A5F;
+}
+
+
+#clock{float: left;
+    margin-top: 8px;
+    margin-left: -5px}
+
+#india a{text-decoration: none;
+    float:left; 
+    font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    margin-top: 11px;
+    margin-left: 4px;
+    color: #403d3d;
+    border-left: 1px #DBDBDB solid;
+    padding-left: 8px;}
+#india a:hover{color:#1380A1;text-decoration: underline; text-decoration-color: #1380A1;}
+
+.more-list{
+    margin-top: 65px;
+    margin-left: 120px;
+    font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+    font-size: 16px;
+    font-weight: 550;}
+
+
+#first-list a{margin-bottom: 10px; text-decoration: none; color: black;}
+#first-list a:hover{color:#1380A1;text-decoration: underline; text-decoration-color: #1380A1;}
+
+#second-list a{text-decoration: none; color: black;}
+#second-list a:hover{color:#1380A1;text-decoration: underline; text-decoration-color: #1380A1;}
+
+.carnews{float: left;}
+
+.smallnews{float: left;
+           position:relative;
+           margin-top: 15px;
+            
+          }    
+.newsblock {width: 240px;
+    margin-left: 16px;
+    font-family: ReithSans, Arial, Helvetica, freesans, sans-serif;
+    float:left;}
+
+.newsblock-heading{margin-top: 10px;}
+.newsblock-heading a{text-decoration: none;
+             color: black;
+             font-weight: bold;}
+
+
+
+.newsblock-heading a:hover{color:#1380A1;text-decoration: underline; text-decoration-color: #1380A1;}
+
+
+.newsblock-content{margin-top: 8px;}
+.newsblock-content a{text-decoration: none;
+                 color: #5A5A5F;
+                 font-size: 14px;}
+
+#bottom-newsblock{margin-top: 22px;}
